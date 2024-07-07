@@ -2,8 +2,8 @@
 Study Machine Learning and Deep Learning by myself
 
 
-Date: 24/06/24 ~ ing
+🚩Date: 24/06/24 ~ ing
 
-Environment: Colab(Google Drive)
+🌎Environment: Colab(Google Drive)
 
-Bookname: "혼자서 공부하는 머신러닝 딥러닝"
+📒Bookname: "혼자서 공부하는 머신러닝 딥러닝"
